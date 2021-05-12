@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Electron React App
 
 ## Available Scripts
 
@@ -28,6 +26,10 @@ Creates Electron desktop installer.
 
 
 ## Development
+
+Dependencies needed to by installed
+`npm install --save-dev electron`
+`npm install -g electron-builder`
 
 For easy development uncomment in main.js in line 15
 ```javascript
